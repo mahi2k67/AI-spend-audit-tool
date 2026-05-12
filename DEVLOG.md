@@ -167,4 +167,53 @@ Today I improved my understanding of:
 - Dynamic calculations
 - Building interactive dashboards
 
+## Day 6 — 2026-05-11
+
+Hours worked: 3
+
+What I did:
+- Built the main AI Spend Audit form
+- Added dropdowns for user type and AI tool
+- Added monthly spending and team size inputs
+- Implemented recommended spending calculation
+- Added monthly and yearly spending analysis
+- Built per-person cost calculation
+- Added spending grade system
+- Improved UI styling with Tailwind CSS
+
+What I learned:
+- Managing multiple useState variables
+- Building calculation logic in React
+- Dynamic conditional rendering
+- Improving responsive UI design
+
+Blockers:
+- Debugging calculation logic
+- Aligning components properly
+
+Plan for tomorrow:
+- Final testing and deploy project
+
+
+## Day 7 — 2026-05-12
+
+Hours worked: 2-3
+
+What I did:
+- Completed final UI improvements
+- Tested all calculator features
+- Fixed dependency warnings
+- Updated Next.js packages
+- Verified project runs locally
+- Prepared GitHub README and project description
+- Got project ready for deployment
+
+What I learned:
+- Running npm audit and fixing vulnerabilities
+- Updating project dependencies
+- Preparing a project for production deployment
+
+Blockers:
+- Next.js package vulnerability warnings
+
 

@@ -452,7 +452,7 @@ const [userType, setUserType] =
     <main className="min-h-screen bg-gradient-to-br from-[#071120] via-[#0B1730] to-[#13254A] text-white p-6">
       <h1 className="text-5xl font-extrabold leading-tight center mb-12">
 
-            AI Spent
+            AI Spend
             <span className="text-cyan-400">
               {" "}Audit Tool
             </span>
